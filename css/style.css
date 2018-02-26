@@ -1,0 +1,48 @@
+header
+{
+  background-color:#F17F06;
+  height:70px;
+  display:block;
+  text-align:center;
+  font-size:30px;
+   line-height: 1.9;
+}
+nav
+{
+  height:500px;
+}
+section
+{
+  height:500px;
+  backgorund-color:#000000;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #F7A34B;
+}
+
+li a {
+    display: block;
+    color: #ffffff;
+    padding: 8px 16px;
+    text-decoration: none;
+  border-bottom: 1px solid  black;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+footer
+{
+  background-color:#F17F06;
+  height:35px;
+  display:block;
+  text-align:left;
+  font-size:17px;
+   line-height:1.5;
+}
